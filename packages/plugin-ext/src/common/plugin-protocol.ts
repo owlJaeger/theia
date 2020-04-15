@@ -442,6 +442,7 @@ export interface PluginModel {
         version: string;
     };
     entryPoint: PluginEntryPoint;
+    packageUri: string;
     packagePath: string;
     iconUrl?: string;
     readmeUrl?: string;

@@ -2,6 +2,7 @@
 
 ## v1.1.0
 
+- [plugin-ext] fixed custom Icon Themes & plugin Icons [#7583](https://github.com/eclipse-theia/theia/pull/7583)
 - [task] fixed presentation.reveal & focus for detected tasks [#7548](https://github.com/eclipse-theia/theia/pull/7548)
 
 Breaking changes:
